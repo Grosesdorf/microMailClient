@@ -1,0 +1,14 @@
+textarea {
+    resize: none;
+    overflow: auto;
+}
+a {
+    color: black;
+}
+thead {
+    color: gray;
+}
+thead :hover{
+    color: lightgray;
+    text-decoration: underline;
+}
